@@ -1,0 +1,42 @@
+DATA STRUCTURE & ALGORITHM
+
+A) Searching 
+	1. Linear
+	2. Binary
+
+B) Sorting
+     i)	1. Bubble
+	2. Insertion
+	3. Merge
+	4. Selection
+
+    ii) 1. Heap
+	2. Quick
+
+C) Stack & Queue
+	1. Mystack
+	2. MyStringStack
+	3. MyQueue
+	4. MyCircularQueue
+
+D) Linked List
+	1. Single
+	2. Double
+	3. Circular
+	4. StackSingle
+	5. QueueLinkedList
+
+E) Hashing
+	1. SingleLinkedList
+
+F) Graph
+	1. AdjescencyList
+	2. AdjescencyMatrix
+	3. GraphBFS
+	4. GraphDFS
+	5. QueueLinkedList
+	6. SingleLinkedList
+
+G) Tree
+	1. BinarySearchTree
+
